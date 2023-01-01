@@ -14,11 +14,13 @@ html = res.text
 
 soup = BeautifulSoup(html, 'html.parser')
 
+kakaoList = []
 item = soup.select_one("#__NEXT_DATA__")
 item = item.text
 
 dict_result = json.loads(item)
+kakaoList.append(dict_result)
 print(dict_result)
 
 with open('kakao.json', 'w', encoding='utf-8') as file:
-    json.dump(dict_result, file, ensure_ascii=False, indent='\t')
+    json.dump(kakaoList, file, ensure_ascii=False, indent='\t')
