@@ -27,8 +27,10 @@ with open('kakao.json', 'rt', encoding='UTF8') as f:
 my_list = data[0]["pageProps"]["initialState"]["json"]["pagewebLayout"]["entities"]["items"]
 
 for list_item in my_list:
+    book_dict = {}
     a = my_list[list_item]
-    book_list2.append(a)
+    book_dict['book'] = a
+    book_list2.append(book_dict)
 
 print(book_list2)
 # https://page.kakao.com/content/48526879
