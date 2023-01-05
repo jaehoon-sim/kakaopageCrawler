@@ -25,7 +25,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install bs4
         pip install requests
-        pip install json
+        
         
         
     - name: run App
