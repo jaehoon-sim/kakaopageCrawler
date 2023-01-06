@@ -16,7 +16,7 @@ my_list = data["pageProps"]["initialState"]["json"]["pagewebLayout"]["entities"]
 for list_item in my_list:
     book_dict = {}
     a = my_list[list_item]
-    book_dict['book'] = my_list[list_item]
+    book_dict['book'] = a
     book_dict['book']['link'] = "https://page.kakao.com/content/" + \
         a['eventLog']['eventMeta']['id']
     book_list2.append(book_dict)
