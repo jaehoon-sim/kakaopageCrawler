@@ -12,7 +12,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,298.3만"
+			"4,298.4만"
 		],
 		"rank": 1,
 		"torosFileHashKey": null,
@@ -53,7 +53,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 59496683
+		"seriesId": 59496683,
+		"link": "https://page.kakao.com/content/59496683"
 	},
 	{
 		"id": "PosterView-itemSeries-56325530-undefined-ViewCount",
@@ -109,7 +110,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 56325530
+		"seriesId": 56325530,
+		"link": "https://page.kakao.com/content/56325530"
 	},
 	{
 		"id": "PosterView-itemSeries-57668776-undefined-ViewCount",
@@ -124,7 +126,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"7,314.3만"
+			"7,314.9만"
 		],
 		"rank": 3,
 		"torosFileHashKey": null,
@@ -165,7 +167,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 57668776
+		"seriesId": 57668776,
+		"link": "https://page.kakao.com/content/57668776"
 	},
 	{
 		"id": "PosterView-itemSeries-57850880-undefined-ViewCount",
@@ -221,7 +224,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 57850880
+		"seriesId": 57850880,
+		"link": "https://page.kakao.com/content/57850880"
 	},
 	{
 		"id": "PosterView-itemSeries-51978137-undefined-ViewCount",
@@ -236,7 +240,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,476.3만"
+			"5,476.4만"
 		],
 		"rank": 5,
 		"torosFileHashKey": null,
@@ -277,7 +281,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 51978137
+		"seriesId": 51978137,
+		"link": "https://page.kakao.com/content/51978137"
 	},
 	{
 		"id": "PosterView-itemSeries-56094375-undefined-ViewCount",
@@ -292,7 +297,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"5,729.1만"
+			"5,729.3만"
 		],
 		"rank": 6,
 		"torosFileHashKey": null,
@@ -333,7 +338,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 56094375
+		"seriesId": 56094375,
+		"link": "https://page.kakao.com/content/56094375"
 	},
 	{
 		"id": "PosterView-itemSeries-48568779-undefined-ViewCount",
@@ -348,7 +354,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"6,606.2만"
+			"6,606.3만"
 		],
 		"rank": 7,
 		"torosFileHashKey": null,
@@ -389,7 +395,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 48568779
+		"seriesId": 48568779,
+		"link": "https://page.kakao.com/content/48568779"
 	},
 	{
 		"id": "PosterView-itemSeries-53312983-undefined-ViewCount",
@@ -404,7 +411,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,494.3만"
+			"4,494.4만"
 		],
 		"rank": 8,
 		"torosFileHashKey": null,
@@ -445,7 +452,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 53312983
+		"seriesId": 53312983,
+		"link": "https://page.kakao.com/content/53312983"
 	},
 	{
 		"id": "PosterView-itemSeries-52714514-undefined-ViewCount",
@@ -460,7 +468,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,129.6만"
+			"4,129.7만"
 		],
 		"rank": 9,
 		"torosFileHashKey": null,
@@ -501,7 +509,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 52714514
+		"seriesId": 52714514,
+		"link": "https://page.kakao.com/content/52714514"
 	},
 	{
 		"id": "PosterView-itemSeries-50127648-undefined-ViewCount",
@@ -557,7 +566,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 50127648
+		"seriesId": 50127648,
+		"link": "https://page.kakao.com/content/50127648"
 	},
 	{
 		"id": "PosterView-itemSeries-57352245-undefined-ViewCount",
@@ -572,7 +582,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"8,625.8만"
+			"8,626.3만"
 		],
 		"rank": 11,
 		"torosFileHashKey": null,
@@ -613,7 +623,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 57352245
+		"seriesId": 57352245,
+		"link": "https://page.kakao.com/content/57352245"
 	},
 	{
 		"id": "PosterView-itemSeries-49334308-undefined-ViewCount",
@@ -669,7 +680,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 49334308
+		"seriesId": 49334308,
+		"link": "https://page.kakao.com/content/49334308"
 	},
 	{
 		"id": "PosterView-itemSeries-55806263-undefined-ViewCount",
@@ -725,7 +737,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 55806263
+		"seriesId": 55806263,
+		"link": "https://page.kakao.com/content/55806263"
 	},
 	{
 		"id": "PosterView-itemSeries-55563592-undefined-ViewCount",
@@ -781,7 +794,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 55563592
+		"seriesId": 55563592,
+		"link": "https://page.kakao.com/content/55563592"
 	},
 	{
 		"id": "PosterView-itemSeries-56505778-undefined-ViewCount",
@@ -837,7 +851,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 56505778
+		"seriesId": 56505778,
+		"link": "https://page.kakao.com/content/56505778"
 	},
 	{
 		"id": "PosterView-itemSeries-55067834-undefined-ViewCount",
@@ -893,7 +908,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 55067834
+		"seriesId": 55067834,
+		"link": "https://page.kakao.com/content/55067834"
 	},
 	{
 		"id": "PosterView-itemSeries-56598258-undefined-ViewCount",
@@ -949,7 +965,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 56598258
+		"seriesId": 56598258,
+		"link": "https://page.kakao.com/content/56598258"
 	},
 	{
 		"id": "PosterView-itemSeries-57948732-undefined-ViewCount",
@@ -1005,7 +1022,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 57948732
+		"seriesId": 57948732,
+		"link": "https://page.kakao.com/content/57948732"
 	},
 	{
 		"id": "PosterView-itemSeries-56908119-undefined-ViewCount",
@@ -1020,7 +1038,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,179.7만"
+			"5,179.9만"
 		],
 		"rank": 19,
 		"torosFileHashKey": null,
@@ -1061,7 +1079,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 56908119
+		"seriesId": 56908119,
+		"link": "https://page.kakao.com/content/56908119"
 	},
 	{
 		"id": "PosterView-itemSeries-56627804-undefined-ViewCount",
@@ -1076,7 +1095,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,124.2만"
+			"4,124.3만"
 		],
 		"rank": 20,
 		"torosFileHashKey": null,
@@ -1117,7 +1136,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 56627804
+		"seriesId": 56627804,
+		"link": "https://page.kakao.com/content/56627804"
 	},
 	{
 		"id": "PosterView-itemSeries-55391838-undefined-ViewCount",
@@ -1132,7 +1152,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"9,041.2만"
+			"9,041.3만"
 		],
 		"rank": 21,
 		"torosFileHashKey": null,
@@ -1173,7 +1193,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 55391838
+		"seriesId": 55391838,
+		"link": "https://page.kakao.com/content/55391838"
 	},
 	{
 		"id": "PosterView-itemSeries-49418698-undefined-ViewCount",
@@ -1229,7 +1250,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 49418698
+		"seriesId": 49418698,
+		"link": "https://page.kakao.com/content/49418698"
 	},
 	{
 		"id": "PosterView-itemSeries-53706168-undefined-ViewCount",
@@ -1244,7 +1266,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,834.8만"
+			"8,834.9만"
 		],
 		"rank": 23,
 		"torosFileHashKey": null,
@@ -1285,7 +1307,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 53706168
+		"seriesId": 53706168,
+		"link": "https://page.kakao.com/content/53706168"
 	},
 	{
 		"id": "PosterView-itemSeries-48526879-undefined-ViewCount",
@@ -1300,7 +1323,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"5,840.7만"
+			"5,841.9만"
 		],
 		"rank": 24,
 		"torosFileHashKey": null,
@@ -1341,7 +1364,8 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 48526879
+		"seriesId": 48526879,
+		"link": "https://page.kakao.com/content/48526879"
 	},
 	{
 		"id": "PosterView-itemSeries-54442787-undefined-ViewCount",
@@ -1397,6 +1421,7 @@
 				"banner_uid": null
 			}
 		},
-		"seriesId": 54442787
+		"seriesId": 54442787,
+		"link": "https://page.kakao.com/content/54442787"
 	}
 ]

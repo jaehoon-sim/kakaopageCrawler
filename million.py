@@ -31,6 +31,8 @@ my_list = data[0]["props"]["pageProps"]["initialState"]["json"]["landing"]["seri
 for list_item in my_list:
     # print(list_item["title"], list_item["subtitleList"])
     list_item['rank'] = rank
+    list_item['link'] = "https://page.kakao.com/content/" + \
+        list_item['eventLog']['eventMeta']['id']
     rank = rank + 1
 
 with open('million.json', 'w', encoding='utf-8') as file:
