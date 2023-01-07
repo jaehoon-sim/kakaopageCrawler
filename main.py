@@ -29,7 +29,7 @@ my_list = data[0]["pageProps"]["initialState"]["json"]["pagewebLayout"]["entitie
 for list_item in my_list:
     book_dict = {}
     a = my_list[list_item]
-    print(type(a))
+    # print(type(a))
     book_dict['book'] = a
     book_dict['book']['link'] = "https://page.kakao.com/content/" + \
         a['eventLog']['eventMeta']['id']

@@ -1,0 +1,1402 @@
+[
+	{
+		"id": "PosterView-itemSeries-59496683-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=59496683",
+		"title": "점괘보는 공녀님",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cs4IP/hzHNz5LS6j/Jx4fkQKD2zzYxJ6nUUMXPK&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"4,298.3만"
+		],
+		"rank": 1,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "59496683",
+				"name": "점괘보는 공녀님",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "점괘보는 공녀님",
+				"provider": "서비스",
+				"series_id": "59496683",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 59496683
+	},
+	{
+		"id": "PosterView-itemSeries-56325530-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56325530",
+		"title": "데뷔 못 하면 죽는 병 걸림",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dp1sx4/hzwBmh2mXC/BGkbvFAig6YCKIafEAONPK&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"3.7억"
+		],
+		"rank": 2,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "56325530",
+				"name": "데뷔 못 하면 죽는 병 걸림",
+				"subcategory": "현판",
+				"category": "웹소설",
+				"series": "데뷔 못 하면 죽는 병 걸림",
+				"provider": "서비스",
+				"series_id": "56325530",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 56325530
+	},
+	{
+		"id": "PosterView-itemSeries-57668776-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=57668776",
+		"title": "마법학교 마법사로 살아가는 법",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=ceVevV/hzhOldna57/DXofk6H4maf7o7TbefsDIk&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"7,314.3만"
+		],
+		"rank": 3,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "57668776",
+				"name": "마법학교 마법사로 살아가는 법",
+				"subcategory": "판타지",
+				"category": "웹소설",
+				"series": "마법학교 마법사로 살아가는 법",
+				"provider": "서비스",
+				"series_id": "57668776",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 57668776
+	},
+	{
+		"id": "PosterView-itemSeries-57850880-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=57850880",
+		"title": "이 3세는 악역입니다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b5eP1E/hzCtgXLlo2/KMSOpfnklqQIYktnnXVux1&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"1억"
+		],
+		"rank": 4,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "57850880",
+				"name": "이 3세는 악역입니다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "이 3세는 악역입니다",
+				"provider": "서비스",
+				"series_id": "57850880",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 57850880
+	},
+	{
+		"id": "PosterView-itemSeries-51978137-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=51978137",
+		"title": "장르를 바꿔보도록 하겠습니다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=pEpVL/hyqDtHTxJ7/Ws3v4wKpBZKgLkoLKFnHKK&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"5,476.3만"
+		],
+		"rank": 5,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "51978137",
+				"name": "장르를 바꿔보도록 하겠습니다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "장르를 바꿔보도록 하겠습니다",
+				"provider": "서비스",
+				"series_id": "51978137",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 51978137
+	},
+	{
+		"id": "PosterView-itemSeries-56094375-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56094375",
+		"title": "제암진천경",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=7dfEz/hyF22bEEcH/naMS9r2I1xKRPQUcRJsjL1&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"5,729.1만"
+		],
+		"rank": 6,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "56094375",
+				"name": "제암진천경",
+				"subcategory": "무협",
+				"category": "웹소설",
+				"series": "제암진천경",
+				"provider": "서비스",
+				"series_id": "56094375",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 56094375
+	},
+	{
+		"id": "PosterView-itemSeries-48568779-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=48568779",
+		"title": "어게인 마이 라이프",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=boQmVe/hzp2jzg3HO/E9HdjtpovRq3qKxA66xeMK&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"6,606.2만"
+		],
+		"rank": 7,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "48568779",
+				"name": "어게인 마이 라이프",
+				"subcategory": "현판",
+				"category": "웹소설",
+				"series": "어게인 마이 라이프",
+				"provider": "서비스",
+				"series_id": "48568779",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 48568779
+	},
+	{
+		"id": "PosterView-itemSeries-53312983-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=53312983",
+		"title": "주인공의 구원자가 될 운명입니다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=jVDKE/hyuhowGfwQ/LtTBKL24KMB4NDVi7jcSkk&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"4,494.3만"
+		],
+		"rank": 8,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "53312983",
+				"name": "주인공의 구원자가 될 운명입니다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "주인공의 구원자가 될 운명입니다",
+				"provider": "서비스",
+				"series_id": "53312983",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 53312983
+	},
+	{
+		"id": "PosterView-itemSeries-52714514-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=52714514",
+		"title": "남편은 됐고, 돈이나 벌렵니다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=j5bJd/hzp2mJim6P/1QN8xU7W72XEjvrOLXwNTk&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"4,129.6만"
+		],
+		"rank": 9,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "52714514",
+				"name": "남편은 됐고, 돈이나 벌렵니다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "남편은 됐고, 돈이나 벌렵니다",
+				"provider": "서비스",
+				"series_id": "52714514",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 52714514
+	},
+	{
+		"id": "PosterView-itemSeries-50127648-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=50127648",
+		"title": "사내 맞선",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b7A8j8/hyfOCvvyPK/yOKdCSZKbs3ilWhcyVpwQ1&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"4,524.9만"
+		],
+		"rank": 10,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "50127648",
+				"name": "사내 맞선",
+				"subcategory": "로맨스",
+				"category": "웹소설",
+				"series": "사내 맞선",
+				"provider": "서비스",
+				"series_id": "50127648",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 50127648
+	},
+	{
+		"id": "PosterView-itemSeries-57352245-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=57352245",
+		"title": "2레벨로 회귀한 무신",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cN4hRc/hyzTZx757q/0ye0fKA5ShWw6hXNdFWRf1&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"8,625.8만"
+		],
+		"rank": 11,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "57352245",
+				"name": "2레벨로 회귀한 무신",
+				"subcategory": "판타지",
+				"category": "웹소설",
+				"series": "2레벨로 회귀한 무신",
+				"provider": "서비스",
+				"series_id": "57352245",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 57352245
+	},
+	{
+		"id": "PosterView-itemSeries-49334308-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=49334308",
+		"title": "인소의 법칙",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cElVy9/hyLjfDoH1j/IKlABjwLgjZogfrb9hfaNk&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"6,311.9만"
+		],
+		"rank": 12,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "49334308",
+				"name": "인소의 법칙",
+				"subcategory": "로맨스",
+				"category": "웹소설",
+				"series": "인소의 법칙",
+				"provider": "서비스",
+				"series_id": "49334308",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 49334308
+	},
+	{
+		"id": "PosterView-itemSeries-55806263-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=55806263",
+		"title": "의원, 다시 살다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=xJIsS/hzab4jX5tw/gqDfDj9gSTEG05CngCjkaK&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"1.4억"
+		],
+		"rank": 13,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "55806263",
+				"name": "의원, 다시 살다",
+				"subcategory": "무협",
+				"category": "웹소설",
+				"series": "의원, 다시 살다",
+				"provider": "서비스",
+				"series_id": "55806263",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 55806263
+	},
+	{
+		"id": "PosterView-itemSeries-55563592-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=55563592",
+		"title": "랭커를 위한 바른 생활 안내서",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=eI4XZf/hyZ8wDCpUx/LsWDuN10mzK31suUgbqekk&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"6,655.7만"
+		],
+		"rank": 14,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "55563592",
+				"name": "랭커를 위한 바른 생활 안내서",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "랭커를 위한 바른 생활 안내서",
+				"provider": "서비스",
+				"series_id": "55563592",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 55563592
+	},
+	{
+		"id": "PosterView-itemSeries-56505778-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56505778",
+		"title": "천재 궁수의 스트리밍",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=zviN6/hyCQ9Ljojg/7VVW4sLzkGuJwG4LNLPcc1&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"1.2억"
+		],
+		"rank": 15,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "56505778",
+				"name": "천재 궁수의 스트리밍",
+				"subcategory": "판타지",
+				"category": "웹소설",
+				"series": "천재 궁수의 스트리밍",
+				"provider": "서비스",
+				"series_id": "56505778",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 56505778
+	},
+	{
+		"id": "PosterView-itemSeries-55067834-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=55067834",
+		"title": "주치의는 할 일 다 하고 사표 씁니다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=ckk4lE/hzHNEMVuau/KVjZ8cQ22fszXadKKnlCR0&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"4,624.1만"
+		],
+		"rank": 16,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "55067834",
+				"name": "주치의는 할 일 다 하고 사표 씁니다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "주치의는 할 일 다 하고 사표 씁니다",
+				"provider": "서비스",
+				"series_id": "55067834",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 55067834
+	},
+	{
+		"id": "PosterView-itemSeries-56598258-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56598258",
+		"title": "흑백무제",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cQoxru/hzwBj7he4q/3GLoLoHasYc3z9ENSKdgxK&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"1.3억"
+		],
+		"rank": 17,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "56598258",
+				"name": "흑백무제",
+				"subcategory": "무협",
+				"category": "웹소설",
+				"series": "흑백무제",
+				"provider": "서비스",
+				"series_id": "56598258",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 56598258
+	},
+	{
+		"id": "PosterView-itemSeries-57948732-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=57948732",
+		"title": "환생한 암살자는 검술 천재",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=mrG85/hyvQNuVLzB/udKt1KxLxHPWxCwoxEpE9K&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"1.2억"
+		],
+		"rank": 18,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "57948732",
+				"name": "환생한 암살자는 검술 천재",
+				"subcategory": "판타지",
+				"category": "웹소설",
+				"series": "환생한 암살자는 검술 천재",
+				"provider": "서비스",
+				"series_id": "57948732",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 57948732
+	},
+	{
+		"id": "PosterView-itemSeries-56908119-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56908119",
+		"title": "빙의자를 위한 특혜",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=rcmyG/hzp2g22Bwu/IGXU3jHsZMwigM3JA78KH1&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"5,179.7만"
+		],
+		"rank": 19,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "56908119",
+				"name": "빙의자를 위한 특혜",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "빙의자를 위한 특혜",
+				"provider": "서비스",
+				"series_id": "56908119",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 56908119
+	},
+	{
+		"id": "PosterView-itemSeries-56627804-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56627804",
+		"title": "입양된 며느리는 파양을 준비합니다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=jNgiu/hyVkMRFsPA/KxDiXANKfnQr18bZZwjiA1&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"4,124.2만"
+		],
+		"rank": 20,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "56627804",
+				"name": "입양된 며느리는 파양을 준비합니다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "입양된 며느리는 파양을 준비합니다",
+				"provider": "서비스",
+				"series_id": "56627804",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 56627804
+	},
+	{
+		"id": "PosterView-itemSeries-55391838-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=55391838",
+		"title": "세이렌: 악당과 계약 가족이 되었다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=DcXGK/hzp2ngZ60m/oAQk9NTdHhzkaHfNeUGqN0&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"9,041.2만"
+		],
+		"rank": 21,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "55391838",
+				"name": "세이렌: 악당과 계약 가족이 되었다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "세이렌: 악당과 계약 가족이 되었다",
+				"provider": "서비스",
+				"series_id": "55391838",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 55391838
+	},
+	{
+		"id": "PosterView-itemSeries-49418698-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=49418698",
+		"title": "전생의 프로가 꿀 빠는 법",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=I3HyV/hycuqrvELq/wlY4kXmBTeV0JtfcirsiDk&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"1.5억"
+		],
+		"rank": 22,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "49418698",
+				"name": "전생의 프로가 꿀 빠는 법",
+				"subcategory": "판타지",
+				"category": "웹소설",
+				"series": "전생의 프로가 꿀 빠는 법",
+				"provider": "서비스",
+				"series_id": "49418698",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 49418698
+	},
+	{
+		"id": "PosterView-itemSeries-53706168-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=53706168",
+		"title": "당신의 이해를 돕기 위하여",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=cZhH1F/hyxJECRPGN/evC0m9yShIBmgeVJlzon8K&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"8,834.8만"
+		],
+		"rank": 23,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "53706168",
+				"name": "당신의 이해를 돕기 위하여",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "당신의 이해를 돕기 위하여",
+				"provider": "서비스",
+				"series_id": "53706168",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 53706168
+	},
+	{
+		"id": "PosterView-itemSeries-48526879-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=48526879",
+		"title": "시그리드",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=wvDYW/hzacbXkEXM/ucMVEKZlWYw9N9POF40t50&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"5,840.7만"
+		],
+		"rank": 24,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "48526879",
+				"name": "시그리드",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "시그리드",
+				"provider": "서비스",
+				"series_id": "48526879",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 48526879
+	},
+	{
+		"id": "PosterView-itemSeries-54442787-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=54442787",
+		"title": "누군가 내 몸에 빙의했다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bECBVS/hy41Jkqs74/k4NoPVckDKl7ASk7S5hj40&filename=th3",
+		"badgeList": [
+			"BadgeWaitFreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": null,
+		"subtitleList": [
+			"3,871.7만"
+		],
+		"rank": 25,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null
+			},
+			"eventMeta": {
+				"id": "54442787",
+				"name": "누군가 내 몸에 빙의했다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "누군가 내 몸에 빙의했다",
+				"provider": "서비스",
+				"series_id": "54442787",
+				"type": "seriesId"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null
+			}
+		},
+		"seriesId": 54442787
+	}
+]
