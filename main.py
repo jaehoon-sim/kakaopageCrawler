@@ -1,35 +1,25 @@
 import requests
-from bs4 import BeautifulSoup
 import json
 
 url = 'https://page.kakao.com/_next/data/2.5.0/landing/ranking/11/117.json?ranking_type=daily&pathParams=11&pathParams=117'
 
 req = requests.get(url)
 
-html = req.text
-
-soup = BeautifulSoup(html, 'html.parser')
-
-books = soup.text
-
-a = json.loads(books)
+data = json.loads(req.text)
 rank = 1
 book_list = []
-book_list.append(a)
+book_list.append(data)
 book_list2 = []
 
-with open('kakao.json', 'w', encoding='utf-8') as file:
-    json.dump(book_list, file, ensure_ascii=False, indent="\t")
-
-with open('kakao.json', 'rt', encoding='UTF8') as f:
-    data = json.load(f)
-
-my_list = data[0]["pageProps"]["initialState"]["json"]["pagewebLayout"]["entities"]["items"]
+my_list = data["pageProps"]["initialState"]["json"]["pagewebLayout"]["entities"]["items"]
 
 for list_item in my_list:
     book_dict = {}
     a = my_list[list_item]
+<<<<<<< HEAD
     # print(type(a))
+=======
+>>>>>>> 249d072ee9d8ce470b4c53c3a11ebf491b6422fc
     book_dict['book'] = a
     book_dict['book']['link'] = "https://page.kakao.com/content/" + \
         a['eventLog']['eventMeta']['id']
