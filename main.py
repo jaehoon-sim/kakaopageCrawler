@@ -16,10 +16,6 @@ my_list = data["pageProps"]["initialState"]["json"]["pagewebLayout"]["entities"]
 for list_item in my_list:
     book_dict = {}
     a = my_list[list_item]
-<<<<<<< HEAD
-    # print(type(a))
-=======
->>>>>>> 249d072ee9d8ce470b4c53c3a11ebf491b6422fc
     book_dict['book'] = a
     book_dict['book']['link'] = "https://page.kakao.com/content/" + \
         a['eventLog']['eventMeta']['id']
