@@ -12,10 +12,16 @@ headers = {
 response = requests.request("POST", url, headers=headers, data=payload)
 
 # print(response.text)
-
+rank = 1
 data = json.loads(response.text)
 
 my_data = data['data']['seriesPosterViewLandingList']['list']
 
-with open('postman.json', 'w', encoding='utf-8') as file:
+for list_item in my_data:
+    list_item['link'] = "https://page.kakao.com/content/" + \
+        list_item['eventLog']['eventMeta']['id']
+    list_item['rank'] = rank
+    rank = rank + 1
+
+with open('million.json', 'w', encoding='utf-8') as file:
     json.dump(my_data, file, ensure_ascii=False, indent="\t")
