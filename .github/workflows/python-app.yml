@@ -31,6 +31,10 @@ jobs:
     - name: run App
       run: |
         python main.py
+
+    - name: run App
+      run: |
+        python millionpostman.py
         
     - name: Commits
       run: |
