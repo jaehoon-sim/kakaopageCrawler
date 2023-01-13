@@ -1,7 +1,7 @@
 import requests
 import json
 
-url = 'https://page.kakao.com/_next/data/2.5.2/landing/ranking/11/117.json?ranking_type=daily&pathParams=11&pathParams=117'
+url = 'https://page.kakao.com/_next/data/2.5.3/landing/ranking/11/117.json?ranking_type=daily&pathParams=11&pathParams=117'
 
 req = requests.get(url)
 
