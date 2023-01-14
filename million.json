@@ -72,7 +72,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"3.8억"
 		],
@@ -136,7 +136,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"7,433.9만"
+			"7,434만"
 		],
 		"rank": 3,
 		"torosFileHashKey": null,
@@ -320,9 +320,9 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
-			"5,791.6만"
+			"5,791.7만"
 		],
 		"rank": 6,
 		"torosFileHashKey": null,
@@ -630,9 +630,9 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
-			"8,732.5만"
+			"8,732.7만"
 		],
 		"rank": 11,
 		"torosFileHashKey": null,
@@ -878,7 +878,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"1.2억"
 		],
@@ -942,7 +942,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,635.1만"
+			"4,635.2만"
 		],
 		"rank": 16,
 		"torosFileHashKey": null,
@@ -1438,7 +1438,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"6,048.7만"
+			"6,048.9만"
 		],
 		"rank": 24,
 		"torosFileHashKey": null,
@@ -2118,7 +2118,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"6,376.2만"
 		],
@@ -2304,7 +2304,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"1.4억"
 		],
@@ -2926,7 +2926,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,694.1만"
+			"8,694.2만"
 		],
 		"rank": 48,
 		"torosFileHashKey": null,
@@ -2986,7 +2986,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"1.3억"
 		],
@@ -3234,7 +3234,7 @@
 			"BadgeWaitFreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"5,749.1만"
 		],
@@ -3298,7 +3298,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,782.4만"
+			"8,782.5만"
 		],
 		"rank": 54,
 		"torosFileHashKey": null,
@@ -3604,7 +3604,7 @@
 			"BadgeWaitFreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"1억"
 		],
@@ -4036,7 +4036,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": "BadgeUpStatic",
+		"statusBadge": null,
 		"subtitleList": [
 			"1억"
 		],
@@ -5030,7 +5030,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"9,865.5만"
+			"9,865.6만"
 		],
 		"rank": 82,
 		"torosFileHashKey": null,
@@ -5338,7 +5338,7 @@
 			"Badge3HoursWaitfreeStatic"
 		],
 		"ageGradeBadge": null,
-		"statusBadge": null,
+		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
 			"3.7억"
 		],
