@@ -1,27 +1,27 @@
 [
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-61028002-0",
+			"id": "NormalList-RankingItemSeriesDto-61020714-0",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=FkOjV/hzR1UrFo7X/53KgJ9JvOoIHqvGSac8h2K&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=AnA5u/hzMT8oMsqG/Dk6TtCS4tAgY6E3Yni0ME0&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
-			"ageGradeBadge": null,
+			"ageGradeBadge": "BadgeAge15Static",
 			"statusBadge": "BadgeNewStatic",
-			"ageGrade": "All",
+			"ageGrade": "Fifteen",
 			"isAlaramOn": null,
-			"row1": "겨울성의 아기 죄수님",
+			"row1": "남편과 사이가 안 좋을 때",
 			"row2": [
 				"로판",
-				"170.4만",
-				"류희온"
+				"76.5만",
+				"틸다킴"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=61028002",
+			"scheme": "kakaopage://open/content?series_id=61020714",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -42,6 +42,81 @@
 					"layer2": null,
 					"setnum": null,
 					"ordnum": "1",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "61020714",
+					"name": "남편과 사이가 안 좋을 때",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "남편과 사이가 안 좋을 때",
+					"provider": "서비스",
+					"series_id": "61020714",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/61020714"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-61028002-1",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=FkOjV/hzR1UrFo7X/53KgJ9JvOoIHqvGSac8h2K&filename=th3",
+			"badgeList": [
+				"Badge3HoursWaitfreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": "BadgeNewStatic",
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "겨울성의 아기 죄수님",
+			"row2": [
+				"로판",
+				"171.4만",
+				"류희온"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=61028002",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "2",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "2",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -76,7 +151,7 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-59854139-1",
+			"id": "NormalList-RankingItemSeriesDto-59854139-2",
 			"type": "NormalListView",
 			"ticketUid": null,
 			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=biCecA/hzmU4kBQF6/MsdhCjLxqfcoFnOTdM13MK&filename=th3",
@@ -90,7 +165,7 @@
 			"row1": "아빠가 힘을 숨김",
 			"row2": [
 				"로판",
-				"1,707.9만",
+				"1,708.8만",
 				"고은채"
 			],
 			"row3": null,
@@ -107,7 +182,7 @@
 			"isChecked": false,
 			"isReceived": null,
 			"showPlayerIcon": false,
-			"rank": "2",
+			"rank": "3",
 			"isSingle": null,
 			"singleSlideType": null,
 			"selfCensorship": null,
@@ -116,7 +191,7 @@
 					"layer1": null,
 					"layer2": null,
 					"setnum": null,
-					"ordnum": "2",
+					"ordnum": "3",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -151,81 +226,6 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60651868-2",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=xItDQ/hyoXxshCAK/mq0KQZklofcia9ZKgOzah0&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": "BadgeUpStatic",
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "이상한데 효과적인 악녀 생활",
-			"row2": [
-				"로판",
-				"1,175.9만",
-				"유나진"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=60651868",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "3",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "3",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "60651868",
-					"name": "이상한데 효과적인 악녀 생활",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "이상한데 효과적인 악녀 생활",
-					"provider": "서비스",
-					"series_id": "60651868",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/60651868"
-		}
-	},
-	{
-		"book": {
 			"id": "NormalList-RankingItemSeriesDto-61017470-3",
 			"type": "NormalListView",
 			"ticketUid": null,
@@ -240,7 +240,7 @@
 			"row1": "흑막과 사귄다니 오해인데요",
 			"row2": [
 				"로판",
-				"156.9만",
+				"157.7만",
 				"걸검"
 			],
 			"row3": null,
@@ -301,27 +301,27 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-61020714-4",
+			"id": "NormalList-RankingItemSeriesDto-60651868-4",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=AnA5u/hzMT8oMsqG/Dk6TtCS4tAgY6E3Yni0ME0&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=xItDQ/hyoXxshCAK/mq0KQZklofcia9ZKgOzah0&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
-			"ageGradeBadge": "BadgeAge15Static",
-			"statusBadge": "BadgeNewStatic",
-			"ageGrade": "Fifteen",
+			"ageGradeBadge": null,
+			"statusBadge": "BadgeUpStatic",
+			"ageGrade": "All",
 			"isAlaramOn": null,
-			"row1": "남편과 사이가 안 좋을 때",
+			"row1": "이상한데 효과적인 악녀 생활",
 			"row2": [
 				"로판",
-				"75.4만",
-				"틸다킴"
+				"1,176.6만",
+				"유나진"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=61020714",
+			"scheme": "kakaopage://open/content?series_id=60651868",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -347,13 +347,13 @@
 					"imp_provider": null
 				},
 				"eventMeta": {
-					"id": "61020714",
-					"name": "남편과 사이가 안 좋을 때",
+					"id": "60651868",
+					"name": "이상한데 효과적인 악녀 생활",
 					"subcategory": "로판",
 					"category": "웹소설",
-					"series": "남편과 사이가 안 좋을 때",
+					"series": "이상한데 효과적인 악녀 생활",
 					"provider": "서비스",
-					"series_id": "61020714",
+					"series_id": "60651868",
 					"type": "seriesId"
 				},
 				"viewimp_contents": null,
@@ -371,15 +371,15 @@
 				}
 			},
 			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/61020714"
+			"link": "https://page.kakao.com/content/60651868"
 		}
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-48526879-5",
+			"id": "NormalList-RankingItemSeriesDto-56281341-5",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=wvDYW/hzacbXkEXM/ucMVEKZlWYw9N9POF40t50&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dmnab/hySXG1sofd/Gj10NoZ4sQELslPC2pq6V0&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
@@ -387,16 +387,16 @@
 			"statusBadge": null,
 			"ageGrade": "All",
 			"isAlaramOn": null,
-			"row1": "시그리드",
+			"row1": "악당만 취급합니다",
 			"row2": [
 				"로판",
-				"6,074.8만",
-				"시야"
+				"1,020.3만",
+				"문시현"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=48526879",
+			"scheme": "kakaopage://open/content?series_id=56281341",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -417,81 +417,6 @@
 					"layer2": null,
 					"setnum": null,
 					"ordnum": "6",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "48526879",
-					"name": "시그리드",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "시그리드",
-					"provider": "서비스",
-					"series_id": "48526879",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/48526879"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-56281341-6",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dmnab/hySXG1sofd/Gj10NoZ4sQELslPC2pq6V0&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "악당만 취급합니다",
-			"row2": [
-				"로판",
-				"1,019.7만",
-				"문시현"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=56281341",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "7",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "7",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -526,6 +451,81 @@
 	},
 	{
 		"book": {
+			"id": "NormalList-RankingItemSeriesDto-48526879-6",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=wvDYW/hzacbXkEXM/ucMVEKZlWYw9N9POF40t50&filename=th3",
+			"badgeList": [
+				"Badge3HoursWaitfreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "시그리드",
+			"row2": [
+				"로판",
+				"6,075.3만",
+				"시야"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=48526879",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "7",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "7",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "48526879",
+					"name": "시그리드",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "시그리드",
+					"provider": "서비스",
+					"series_id": "48526879",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/48526879"
+		}
+	},
+	{
+		"book": {
 			"id": "NormalList-RankingItemSeriesDto-60138831-7",
 			"type": "NormalListView",
 			"ticketUid": null,
@@ -540,7 +540,7 @@
 			"row1": "힘을 숨기고 즐기는 평화로운 하녀 생활",
 			"row2": [
 				"로판",
-				"1,382.3만",
+				"1,382.6만",
 				"박귀리"
 			],
 			"row3": null,
@@ -615,7 +615,7 @@
 			"row1": "이 결혼은 반드시 성공합니다",
 			"row2": [
 				"로판",
-				"381.4만",
+				"381.8만",
 				"마지노선"
 			],
 			"row3": null,
@@ -676,27 +676,27 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-57508924-9",
+			"id": "NormalList-RankingItemSeriesDto-60067478-9",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=mipuG/hzacc9m264/NO9RytS91urRxliDUbSeHK&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bgG9po/hzCtgD0UJc/pvh0XOsVXpZ74IiRcXRQt0&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
 			"ageGradeBadge": null,
-			"statusBadge": null,
+			"statusBadge": "BadgeUpStatic",
 			"ageGrade": "All",
 			"isAlaramOn": null,
-			"row1": "엄마가 계약결혼 했다",
+			"row1": "용의 파수꾼",
 			"row2": [
 				"로판",
-				"2,086.6만",
-				"시야"
+				"576.7만",
+				"하늘가리기"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=57508924",
+			"scheme": "kakaopage://open/content?series_id=60067478",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -717,231 +717,6 @@
 					"layer2": null,
 					"setnum": null,
 					"ordnum": "10",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "57508924",
-					"name": "엄마가 계약결혼 했다",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "엄마가 계약결혼 했다",
-					"provider": "서비스",
-					"series_id": "57508924",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/57508924"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-55527274-10",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=04f5K/hyF23mZIyA/jgOdPazuC4flfkNVIRiohK&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "악녀라서 편하고 좋은데요?",
-			"row2": [
-				"로판",
-				"8,715.6만",
-				"망고킴"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=55527274",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "11",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "11",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "55527274",
-					"name": "악녀라서 편하고 좋은데요?",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "악녀라서 편하고 좋은데요?",
-					"provider": "서비스",
-					"series_id": "55527274",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/55527274"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-57850880-11",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b5eP1E/hzCtgXLlo2/KMSOpfnklqQIYktnnXVux1&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "이 3세는 악역입니다",
-			"row2": [
-				"로판",
-				"1억",
-				"리샤"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=57850880",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "12",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "12",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "57850880",
-					"name": "이 3세는 악역입니다",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "이 3세는 악역입니다",
-					"provider": "서비스",
-					"series_id": "57850880",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/57850880"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60067478-12",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bgG9po/hzCtgD0UJc/pvh0XOsVXpZ74IiRcXRQt0&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": "BadgeUpStatic",
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "용의 파수꾼",
-			"row2": [
-				"로판",
-				"576.3만",
-				"하늘가리기"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=60067478",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "13",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "13",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -976,10 +751,10 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60947960-13",
+			"id": "NormalList-RankingItemSeriesDto-57850880-10",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=yYnMQ/hyRyNUVN8l/HPpK7TeBqHlc855gIHdkKk&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b5eP1E/hzCtgXLlo2/KMSOpfnklqQIYktnnXVux1&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
@@ -987,16 +762,241 @@
 			"statusBadge": null,
 			"ageGrade": "All",
 			"isAlaramOn": null,
-			"row1": "수인 아카데미",
+			"row1": "이 3세는 악역입니다",
 			"row2": [
 				"로판",
-				"447.3만",
-				"야식먹는중"
+				"1억",
+				"리샤"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=60947960",
+			"scheme": "kakaopage://open/content?series_id=57850880",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "11",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "11",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "57850880",
+					"name": "이 3세는 악역입니다",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "이 3세는 악역입니다",
+					"provider": "서비스",
+					"series_id": "57850880",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/57850880"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-55527274-11",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=04f5K/hyF23mZIyA/jgOdPazuC4flfkNVIRiohK&filename=th3",
+			"badgeList": [
+				"Badge3HoursWaitfreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "악녀라서 편하고 좋은데요?",
+			"row2": [
+				"로판",
+				"8,716.1만",
+				"망고킴"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=55527274",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "12",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "12",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "55527274",
+					"name": "악녀라서 편하고 좋은데요?",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "악녀라서 편하고 좋은데요?",
+					"provider": "서비스",
+					"series_id": "55527274",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/55527274"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-57508924-12",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=mipuG/hzacc9m264/NO9RytS91urRxliDUbSeHK&filename=th3",
+			"badgeList": [
+				"Badge3HoursWaitfreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "엄마가 계약결혼 했다",
+			"row2": [
+				"로판",
+				"2,086.9만",
+				"시야"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=57508924",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "13",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "13",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "57508924",
+					"name": "엄마가 계약결혼 했다",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "엄마가 계약결혼 했다",
+					"provider": "서비스",
+					"series_id": "57508924",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/57508924"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-59675854-13",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=chEQm/hyRyPE167k/Edf74IQQ34SrpHRwHQNsV0&filename=th3",
+			"badgeList": [
+				"BadgeWaitFreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": "BadgeUpStatic",
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "막내온탑",
+			"row2": [
+				"로판",
+				"1,622.5만",
+				"주해온"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=59675854",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -1017,156 +1017,6 @@
 					"layer2": null,
 					"setnum": null,
 					"ordnum": "14",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "60947960",
-					"name": "수인 아카데미",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "수인 아카데미",
-					"provider": "서비스",
-					"series_id": "60947960",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/60947960"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-56519902-14",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=l8Dvm/hyQ9RC7Lzo/r7fl6m9k7Iqe7Q1fPhFAlK&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "폭군 아빠들 때문에 폐업합니다",
-			"row2": [
-				"로판",
-				"399만",
-				"하라쇼"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=56519902",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "15",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "15",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "56519902",
-					"name": "폭군 아빠들 때문에 폐업합니다",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "폭군 아빠들 때문에 폐업합니다",
-					"provider": "서비스",
-					"series_id": "56519902",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/56519902"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-59675854-15",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=chEQm/hyRyPE167k/Edf74IQQ34SrpHRwHQNsV0&filename=th3",
-			"badgeList": [
-				"BadgeWaitFreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": "BadgeUpStatic",
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "막내온탑",
-			"row2": [
-				"로판",
-				"1,622.4만",
-				"주해온"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=59675854",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "16",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "16",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -1201,82 +1051,7 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60889495-16",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dIcox/hzR1XPjtnP/pY78YwZtqGMmOAykrTE7KK&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "공포게임 남주와 감금당했다",
-			"row2": [
-				"로판",
-				"292.3만",
-				"플랑비"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=60889495",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "17",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "17",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "60889495",
-					"name": "공포게임 남주와 감금당했다",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "공포게임 남주와 감금당했다",
-					"provider": "서비스",
-					"series_id": "60889495",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/60889495"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60558545-17",
+			"id": "NormalList-RankingItemSeriesDto-60558545-14",
 			"type": "NormalListView",
 			"ticketUid": null,
 			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=lrGLF/hzab6Ptuvn/UkQbI00Bln80m8iKnLnKd0&filename=th3",
@@ -1284,13 +1059,13 @@
 				"Badge3HoursWaitfreeStatic"
 			],
 			"ageGradeBadge": "BadgeAge19Static",
-			"statusBadge": null,
+			"statusBadge": "BadgeUpStatic",
 			"ageGrade": "Nineteen",
 			"isAlaramOn": null,
 			"row1": "이 결혼은 어차피 망하게 되어 있다 [19세 완전판]",
 			"row2": [
 				"로판",
-				"1,071.2만",
+				"1,071.6만",
 				"김차차"
 			],
 			"row3": null,
@@ -1307,7 +1082,7 @@
 			"isChecked": false,
 			"isReceived": null,
 			"showPlayerIcon": false,
-			"rank": "18",
+			"rank": "15",
 			"isSingle": null,
 			"singleSlideType": null,
 			"selfCensorship": null,
@@ -1316,7 +1091,7 @@
 					"layer1": null,
 					"layer2": null,
 					"setnum": null,
-					"ordnum": "18",
+					"ordnum": "15",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -1351,7 +1126,82 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-54790583-18",
+			"id": "NormalList-RankingItemSeriesDto-60889495-15",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dIcox/hzR1XPjtnP/pY78YwZtqGMmOAykrTE7KK&filename=th3",
+			"badgeList": [
+				"Badge3HoursWaitfreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": "BadgeUpStatic",
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "공포게임 남주와 감금당했다",
+			"row2": [
+				"로판",
+				"292.8만",
+				"플랑비"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=60889495",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "16",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "16",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "60889495",
+					"name": "공포게임 남주와 감금당했다",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "공포게임 남주와 감금당했다",
+					"provider": "서비스",
+					"series_id": "60889495",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/60889495"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-54790583-16",
 			"type": "NormalListView",
 			"ticketUid": null,
 			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=kbbVY/hyCvgwUo5W/4zNRokOyeAhdlV3Qj452M0&filename=th3",
@@ -1365,7 +1215,7 @@
 			"row1": "사랑받는 언니가 사라진 세계",
 			"row2": [
 				"로판",
-				"2,236.5만",
+				"2,236.7만",
 				"나유혜"
 			],
 			"row3": null,
@@ -1382,7 +1232,7 @@
 			"isChecked": false,
 			"isReceived": null,
 			"showPlayerIcon": false,
-			"rank": "19",
+			"rank": "17",
 			"isSingle": null,
 			"singleSlideType": null,
 			"selfCensorship": null,
@@ -1391,7 +1241,7 @@
 					"layer1": null,
 					"layer2": null,
 					"setnum": null,
-					"ordnum": "19",
+					"ordnum": "17",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -1426,10 +1276,10 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-57386751-19",
+			"id": "NormalList-RankingItemSeriesDto-60947960-17",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=13Zjs/hyZ8zOnYPk/k3ZChmKeKuLXLus4Txdk7K&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=yYnMQ/hyRyNUVN8l/HPpK7TeBqHlc855gIHdkKk&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
@@ -1437,16 +1287,16 @@
 			"statusBadge": null,
 			"ageGrade": "All",
 			"isAlaramOn": null,
-			"row1": "두 번은 안 당해",
+			"row1": "수인 아카데미",
 			"row2": [
 				"로판",
-				"142.5만",
-				"퍼플애플"
+				"447.6만",
+				"야식먹는중"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=57386751",
+			"scheme": "kakaopage://open/content?series_id=60947960",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -1457,7 +1307,7 @@
 			"isChecked": false,
 			"isReceived": null,
 			"showPlayerIcon": false,
-			"rank": "20",
+			"rank": "18",
 			"isSingle": null,
 			"singleSlideType": null,
 			"selfCensorship": null,
@@ -1466,19 +1316,19 @@
 					"layer1": null,
 					"layer2": null,
 					"setnum": null,
-					"ordnum": "20",
+					"ordnum": "18",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
 				},
 				"eventMeta": {
-					"id": "57386751",
-					"name": "두 번은 안 당해",
+					"id": "60947960",
+					"name": "수인 아카데미",
 					"subcategory": "로판",
 					"category": "웹소설",
-					"series": "두 번은 안 당해",
+					"series": "수인 아카데미",
 					"provider": "서비스",
-					"series_id": "57386751",
+					"series_id": "60947960",
 					"type": "seriesId"
 				},
 				"viewimp_contents": null,
@@ -1496,162 +1346,12 @@
 				}
 			},
 			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/57386751"
+			"link": "https://page.kakao.com/content/60947960"
 		}
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-52903324-20",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b9Vx9a/hySXGzS16M/jVvcgEbkThb6AFLijCfgxK&filename=th3",
-			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "이번 생은 가주가 되겠습니다",
-			"row2": [
-				"로판",
-				"2.1억",
-				"김로아"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=52903324",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "21",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "21",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "52903324",
-					"name": "이번 생은 가주가 되겠습니다",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "이번 생은 가주가 되겠습니다",
-					"provider": "서비스",
-					"series_id": "52903324",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/52903324"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-52654302-21",
-			"type": "NormalListView",
-			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bqnocF/hyqDpMAsjf/Kscud578X1bVPDoEmetLK0&filename=th3",
-			"badgeList": [
-				"BadgeWaitFreeStatic"
-			],
-			"ageGradeBadge": null,
-			"statusBadge": null,
-			"ageGrade": "All",
-			"isAlaramOn": null,
-			"row1": "악역의 엔딩은 죽음뿐",
-			"row2": [
-				"로판",
-				"1.4억",
-				"권겨을"
-			],
-			"row3": null,
-			"row4": null,
-			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=52654302",
-			"continueScheme": null,
-			"nextProductScheme": null,
-			"continueData": null,
-			"torosImpId": null,
-			"torosFileHashKey": null,
-			"seriesId": null,
-			"isCheckMode": false,
-			"isChecked": false,
-			"isReceived": null,
-			"showPlayerIcon": false,
-			"rank": "22",
-			"isSingle": null,
-			"singleSlideType": null,
-			"selfCensorship": null,
-			"eventLog": {
-				"click": {
-					"layer1": null,
-					"layer2": null,
-					"setnum": null,
-					"ordnum": "22",
-					"copy": null,
-					"imp_id": null,
-					"imp_provider": null
-				},
-				"eventMeta": {
-					"id": "52654302",
-					"name": "악역의 엔딩은 죽음뿐",
-					"subcategory": "로판",
-					"category": "웹소설",
-					"series": "악역의 엔딩은 죽음뿐",
-					"provider": "서비스",
-					"series_id": "52654302",
-					"type": "seriesId"
-				},
-				"viewimp_contents": null,
-				"customProps": {
-					"landing_path": "contents",
-					"view_type": "series_list_view",
-					"toros_imp_id": null,
-					"toros_file_hash_key": null,
-					"toros_event_meta_id": null,
-					"content_cnt": null,
-					"event_series_id": null,
-					"event_ticket_type": null,
-					"play_url": null,
-					"banner_uid": null
-				}
-			},
-			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/52654302"
-		}
-	},
-	{
-		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60735883-22",
+			"id": "NormalList-RankingItemSeriesDto-60735883-18",
 			"type": "NormalListView",
 			"ticketUid": null,
 			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=hjLM8/hzN2hc6LHc/Pel3Ij30FttByWr04xp8uk&filename=th3",
@@ -1665,7 +1365,7 @@
 			"row1": "온 우주가 돕는 여동생 시나리오",
 			"row2": [
 				"로판",
-				"400.8만",
+				"401.1만",
 				"톄제"
 			],
 			"row3": null,
@@ -1682,7 +1382,7 @@
 			"isChecked": false,
 			"isReceived": null,
 			"showPlayerIcon": false,
-			"rank": "23",
+			"rank": "19",
 			"isSingle": null,
 			"singleSlideType": null,
 			"selfCensorship": null,
@@ -1691,7 +1391,7 @@
 					"layer1": null,
 					"layer2": null,
 					"setnum": null,
-					"ordnum": "23",
+					"ordnum": "19",
 					"copy": null,
 					"imp_id": null,
 					"imp_provider": null
@@ -1726,10 +1426,10 @@
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-60903181-23",
+			"id": "NormalList-RankingItemSeriesDto-52903324-19",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=iEcJp/hynazFtaRx/yOjtHfkzwp0KuXn1nclSbk&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=b9Vx9a/hySXGzS16M/jVvcgEbkThb6AFLijCfgxK&filename=th3",
 			"badgeList": [
 				"Badge3HoursWaitfreeStatic"
 			],
@@ -1737,16 +1437,316 @@
 			"statusBadge": null,
 			"ageGrade": "All",
 			"isAlaramOn": null,
-			"row1": "사천당가의 시비로 살아남기",
+			"row1": "이번 생은 가주가 되겠습니다",
 			"row2": [
 				"로판",
-				"424.9만",
-				"Molae"
+				"2.1억",
+				"김로아"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=60903181",
+			"scheme": "kakaopage://open/content?series_id=52903324",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "20",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "20",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "52903324",
+					"name": "이번 생은 가주가 되겠습니다",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "이번 생은 가주가 되겠습니다",
+					"provider": "서비스",
+					"series_id": "52903324",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/52903324"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-52654302-20",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bqnocF/hyqDpMAsjf/Kscud578X1bVPDoEmetLK0&filename=th3",
+			"badgeList": [
+				"BadgeWaitFreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "악역의 엔딩은 죽음뿐",
+			"row2": [
+				"로판",
+				"1.4억",
+				"권겨을"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=52654302",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "21",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "21",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "52654302",
+					"name": "악역의 엔딩은 죽음뿐",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "악역의 엔딩은 죽음뿐",
+					"provider": "서비스",
+					"series_id": "52654302",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/52654302"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-56627804-21",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=jNgiu/hyVkMRFsPA/KxDiXANKfnQr18bZZwjiA1&filename=th3",
+			"badgeList": [
+				"BadgeWaitFreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "입양된 며느리는 파양을 준비합니다",
+			"row2": [
+				"로판",
+				"4,148.3만",
+				"채유화"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=56627804",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "22",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "22",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "56627804",
+					"name": "입양된 며느리는 파양을 준비합니다",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "입양된 며느리는 파양을 준비합니다",
+					"provider": "서비스",
+					"series_id": "56627804",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/56627804"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-52714514-22",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=j5bJd/hzp2mJim6P/1QN8xU7W72XEjvrOLXwNTk&filename=th3",
+			"badgeList": [
+				"BadgeWaitFreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "남편은 됐고, 돈이나 벌렵니다",
+			"row2": [
+				"로판",
+				"4,161.5만",
+				"주해온"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=52714514",
+			"continueScheme": null,
+			"nextProductScheme": null,
+			"continueData": null,
+			"torosImpId": null,
+			"torosFileHashKey": null,
+			"seriesId": null,
+			"isCheckMode": false,
+			"isChecked": false,
+			"isReceived": null,
+			"showPlayerIcon": false,
+			"rank": "23",
+			"isSingle": null,
+			"singleSlideType": null,
+			"selfCensorship": null,
+			"eventLog": {
+				"click": {
+					"layer1": null,
+					"layer2": null,
+					"setnum": null,
+					"ordnum": "23",
+					"copy": null,
+					"imp_id": null,
+					"imp_provider": null
+				},
+				"eventMeta": {
+					"id": "52714514",
+					"name": "남편은 됐고, 돈이나 벌렵니다",
+					"subcategory": "로판",
+					"category": "웹소설",
+					"series": "남편은 됐고, 돈이나 벌렵니다",
+					"provider": "서비스",
+					"series_id": "52714514",
+					"type": "seriesId"
+				},
+				"viewimp_contents": null,
+				"customProps": {
+					"landing_path": "contents",
+					"view_type": "series_list_view",
+					"toros_imp_id": null,
+					"toros_file_hash_key": null,
+					"toros_event_meta_id": null,
+					"content_cnt": null,
+					"event_series_id": null,
+					"event_ticket_type": null,
+					"play_url": null,
+					"banner_uid": null
+				}
+			},
+			"giftEventLog": null,
+			"link": "https://page.kakao.com/content/52714514"
+		}
+	},
+	{
+		"book": {
+			"id": "NormalList-RankingItemSeriesDto-59691342-23",
+			"type": "NormalListView",
+			"ticketUid": null,
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=CxXeA/hzKkT1onTI/X1tCRxElLwbIf5FkV36rIK&filename=th3",
+			"badgeList": [
+				"Badge3HoursWaitfreeStatic"
+			],
+			"ageGradeBadge": null,
+			"statusBadge": null,
+			"ageGrade": "All",
+			"isAlaramOn": null,
+			"row1": "왕은 길 위에서 태어난다",
+			"row2": [
+				"로판",
+				"685.6만",
+				"이보라"
+			],
+			"row3": null,
+			"row4": null,
+			"row5": null,
+			"scheme": "kakaopage://open/content?series_id=59691342",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -1772,13 +1772,13 @@
 					"imp_provider": null
 				},
 				"eventMeta": {
-					"id": "60903181",
-					"name": "사천당가의 시비로 살아남기",
+					"id": "59691342",
+					"name": "왕은 길 위에서 태어난다",
 					"subcategory": "로판",
 					"category": "웹소설",
-					"series": "사천당가의 시비로 살아남기",
+					"series": "왕은 길 위에서 태어난다",
 					"provider": "서비스",
-					"series_id": "60903181",
+					"series_id": "59691342",
 					"type": "seriesId"
 				},
 				"viewimp_contents": null,
@@ -1796,32 +1796,32 @@
 				}
 			},
 			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/60903181"
+			"link": "https://page.kakao.com/content/59691342"
 		}
 	},
 	{
 		"book": {
-			"id": "NormalList-RankingItemSeriesDto-54118885-24",
+			"id": "NormalList-RankingItemSeriesDto-60374376-24",
 			"type": "NormalListView",
 			"ticketUid": null,
-			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=bBs12J/hyzcDI2Fxz/E7cx97KltT2mLlTLkjqBlk&filename=th3",
+			"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=ZVITO/hynaFL8bIG/WGA0XkFVGd8xx397ILrJu0&filename=th3",
 			"badgeList": [
-				"Badge3HoursWaitfreeStatic"
+				"BadgeWaitFreeStatic"
 			],
-			"ageGradeBadge": null,
+			"ageGradeBadge": "BadgeAge19Static",
 			"statusBadge": null,
-			"ageGrade": "All",
+			"ageGrade": "Nineteen",
 			"isAlaramOn": null,
-			"row1": "주인공 옆에 붙어만 있겠습니다",
+			"row1": "결혼 장사[19세 완전판]",
 			"row2": [
 				"로판",
-				"825.5만",
-				"공은화"
+				"366.2만",
+				"KEN"
 			],
 			"row3": null,
 			"row4": null,
 			"row5": null,
-			"scheme": "kakaopage://open/content?series_id=54118885",
+			"scheme": "kakaopage://open/content?series_id=60374376",
 			"continueScheme": null,
 			"nextProductScheme": null,
 			"continueData": null,
@@ -1847,13 +1847,13 @@
 					"imp_provider": null
 				},
 				"eventMeta": {
-					"id": "54118885",
-					"name": "주인공 옆에 붙어만 있겠습니다",
+					"id": "60374376",
+					"name": "결혼 장사[19세 완전판]",
 					"subcategory": "로판",
 					"category": "웹소설",
-					"series": "주인공 옆에 붙어만 있겠습니다",
+					"series": "결혼 장사[19세 완전판]",
 					"provider": "서비스",
-					"series_id": "54118885",
+					"series_id": "60374376",
 					"type": "seriesId"
 				},
 				"viewimp_contents": null,
@@ -1871,7 +1871,7 @@
 				}
 			},
 			"giftEventLog": null,
-			"link": "https://page.kakao.com/content/54118885"
+			"link": "https://page.kakao.com/content/60374376"
 		}
 	}
 ]
