@@ -12,7 +12,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,381.4만"
+			"4,381.5만"
 		],
 		"rank": 1,
 		"torosFileHashKey": null,
@@ -136,7 +136,7 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"7,616만"
+			"7,616.2만"
 		],
 		"rank": 3,
 		"torosFileHashKey": null,
@@ -248,6 +248,68 @@
 		"link": "https://page.kakao.com/content/57850880"
 	},
 	{
+		"id": "PosterView-itemSeries-56272329-undefined-ViewCount",
+		"type": "PosterView",
+		"showPlayerIcon": false,
+		"scheme": "kakaopage://open/content?series_id=56272329",
+		"title": "무림세가 천대받는 손녀 딸이 되었다",
+		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dHQz4D/hzKkTuc1qz/32zzMZiqCFDk15TgVMrKxk&filename=th3",
+		"badgeList": [
+			"Badge3HoursWaitfreeStatic"
+		],
+		"ageGradeBadge": null,
+		"statusBadge": "BadgeUpStatic",
+		"subtitleList": [
+			"4,312.6만"
+		],
+		"rank": 5,
+		"torosFileHashKey": null,
+		"torosImgId": null,
+		"ageGrade": "All",
+		"selfCensorship": null,
+		"eventLog": {
+			"click": {
+				"layer1": null,
+				"layer2": null,
+				"setnum": null,
+				"ordnum": null,
+				"copy": null,
+				"imp_id": null,
+				"imp_provider": null,
+				"__typename": "ClickLog"
+			},
+			"eventMeta": {
+				"id": "56272329",
+				"name": "무림세가 천대받는 손녀 딸이 되었다",
+				"subcategory": "로판",
+				"category": "웹소설",
+				"series": "무림세가 천대받는 손녀 딸이 되었다",
+				"provider": "서비스",
+				"series_id": "56272329",
+				"type": "seriesId",
+				"__typename": "EventMeta"
+			},
+			"viewimp_contents": null,
+			"customProps": {
+				"landing_path": "contents",
+				"view_type": "series_poster_view",
+				"toros_imp_id": null,
+				"toros_file_hash_key": null,
+				"toros_event_meta_id": null,
+				"content_cnt": null,
+				"event_series_id": null,
+				"event_ticket_type": null,
+				"play_url": null,
+				"banner_uid": null,
+				"__typename": "CustomProps"
+			},
+			"__typename": "EventLog"
+		},
+		"seriesId": 56272329,
+		"__typename": "PosterViewItem",
+		"link": "https://page.kakao.com/content/56272329"
+	},
+	{
 		"id": "PosterView-itemSeries-51978137-undefined-ViewCount",
 		"type": "PosterView",
 		"showPlayerIcon": false,
@@ -262,7 +324,7 @@
 		"subtitleList": [
 			"5,508.9만"
 		],
-		"rank": 5,
+		"rank": 6,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -322,9 +384,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,874.8만"
+			"5,874.9만"
 		],
-		"rank": 6,
+		"rank": 7,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -386,7 +448,7 @@
 		"subtitleList": [
 			"4,550만"
 		],
-		"rank": 7,
+		"rank": 8,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -446,9 +508,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"6,617.8만"
+			"6,617.9만"
 		],
-		"rank": 8,
+		"rank": 9,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -508,9 +570,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,245.1만"
+			"5,245.2만"
 		],
-		"rank": 9,
+		"rank": 10,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -570,9 +632,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,198.8만"
+			"4,198.9만"
 		],
-		"rank": 10,
+		"rank": 11,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -634,7 +696,7 @@
 		"subtitleList": [
 			"4,526.5만"
 		],
-		"rank": 11,
+		"rank": 12,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -694,9 +756,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"8,881.3만"
+			"8,881.5만"
 		],
-		"rank": 12,
+		"rank": 13,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -758,7 +820,7 @@
 		"subtitleList": [
 			"6,328.5만"
 		],
-		"rank": 13,
+		"rank": 14,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -820,7 +882,7 @@
 		"subtitleList": [
 			"1.4억"
 		],
-		"rank": 14,
+		"rank": 15,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -882,7 +944,7 @@
 		"subtitleList": [
 			"6,697.6만"
 		],
-		"rank": 15,
+		"rank": 16,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -944,7 +1006,7 @@
 		"subtitleList": [
 			"1.2억"
 		],
-		"rank": 16,
+		"rank": 17,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1004,9 +1066,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,649.6만"
+			"4,649.7만"
 		],
-		"rank": 17,
+		"rank": 18,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1068,7 +1130,7 @@
 		"subtitleList": [
 			"1.4억"
 		],
-		"rank": 18,
+		"rank": 19,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1130,7 +1192,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 19,
+		"rank": 20,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1190,9 +1252,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,320.3만"
+			"5,320.7만"
 		],
-		"rank": 20,
+		"rank": 21,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1254,7 +1316,7 @@
 		"subtitleList": [
 			"4,172.4만"
 		],
-		"rank": 21,
+		"rank": 22,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1316,7 +1378,7 @@
 		"subtitleList": [
 			"9,109.8만"
 		],
-		"rank": 22,
+		"rank": 23,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1378,7 +1440,7 @@
 		"subtitleList": [
 			"1.5억"
 		],
-		"rank": 23,
+		"rank": 24,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1438,9 +1500,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,869.5만"
+			"8,869.6만"
 		],
-		"rank": 24,
+		"rank": 25,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1500,9 +1562,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"6,221.3만"
+			"6,221.5만"
 		],
-		"rank": 25,
+		"rank": 26,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1562,9 +1624,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"3,904.9만"
+			"3,905만"
 		],
-		"rank": 26,
+		"rank": 27,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1624,9 +1686,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,766.2만"
+			"5,766.3만"
 		],
-		"rank": 27,
+		"rank": 28,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1688,7 +1750,7 @@
 		"subtitleList": [
 			"4,881.4만"
 		],
-		"rank": 28,
+		"rank": 29,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "Fifteen",
@@ -1750,7 +1812,7 @@
 		"subtitleList": [
 			"6,101.8만"
 		],
-		"rank": 29,
+		"rank": 30,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1812,7 +1874,7 @@
 		"subtitleList": [
 			"5,697.7만"
 		],
-		"rank": 30,
+		"rank": 31,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1874,7 +1936,7 @@
 		"subtitleList": [
 			"5,096.5만"
 		],
-		"rank": 31,
+		"rank": 32,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1934,9 +1996,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"5,733.8만"
+			"5,733.9만"
 		],
-		"rank": 32,
+		"rank": 33,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -1998,7 +2060,7 @@
 		"subtitleList": [
 			"3,657.7만"
 		],
-		"rank": 33,
+		"rank": 34,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2060,7 +2122,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 34,
+		"rank": 35,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2122,7 +2184,7 @@
 		"subtitleList": [
 			"5,807.8만"
 		],
-		"rank": 35,
+		"rank": 36,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2182,9 +2244,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": "BadgeUpStatic",
 		"subtitleList": [
-			"6,440.4만"
+			"6,440.6만"
 		],
-		"rank": 36,
+		"rank": 37,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2246,7 +2308,7 @@
 		"subtitleList": [
 			"7,312.3만"
 		],
-		"rank": 37,
+		"rank": 38,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2308,7 +2370,7 @@
 		"subtitleList": [
 			"8,760.8만"
 		],
-		"rank": 38,
+		"rank": 39,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2370,7 +2432,7 @@
 		"subtitleList": [
 			"1.4억"
 		],
-		"rank": 39,
+		"rank": 40,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2430,9 +2492,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,363.5만"
+			"8,363.6만"
 		],
-		"rank": 40,
+		"rank": 41,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2494,7 +2556,7 @@
 		"subtitleList": [
 			"6,848.9만"
 		],
-		"rank": 41,
+		"rank": 42,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2556,7 +2618,7 @@
 		"subtitleList": [
 			"5,761.8만"
 		],
-		"rank": 42,
+		"rank": 43,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2618,7 +2680,7 @@
 		"subtitleList": [
 			"5,754.5만"
 		],
-		"rank": 43,
+		"rank": 44,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2680,7 +2742,7 @@
 		"subtitleList": [
 			"7,859.7만"
 		],
-		"rank": 44,
+		"rank": 45,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2740,9 +2802,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"4,797.2만"
+			"4,797.3만"
 		],
-		"rank": 45,
+		"rank": 46,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2802,9 +2864,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"6,747.3만"
+			"6,747.4만"
 		],
-		"rank": 46,
+		"rank": 47,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2866,7 +2928,7 @@
 		"subtitleList": [
 			"5,060.5만"
 		],
-		"rank": 47,
+		"rank": 48,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2926,9 +2988,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"9,923.4만"
+			"9,923.5만"
 		],
-		"rank": 48,
+		"rank": 49,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -2988,9 +3050,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,880.3만"
+			"8,880.7만"
 		],
-		"rank": 49,
+		"rank": 50,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3052,7 +3114,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 50,
+		"rank": 51,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3114,7 +3176,7 @@
 		"subtitleList": [
 			"8,103.4만"
 		],
-		"rank": 51,
+		"rank": 52,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3176,7 +3238,7 @@
 		"subtitleList": [
 			"7,669.9만"
 		],
-		"rank": 52,
+		"rank": 53,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3238,7 +3300,7 @@
 		"subtitleList": [
 			"7,431만"
 		],
-		"rank": 53,
+		"rank": 54,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3300,7 +3362,7 @@
 		"subtitleList": [
 			"5,755.4만"
 		],
-		"rank": 54,
+		"rank": 55,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3360,9 +3422,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,828.7만"
+			"8,828.8만"
 		],
-		"rank": 55,
+		"rank": 56,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3422,9 +3484,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"6,479.3만"
+			"6,479.4만"
 		],
-		"rank": 56,
+		"rank": 57,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3486,7 +3548,7 @@
 		"subtitleList": [
 			"5,289만"
 		],
-		"rank": 57,
+		"rank": 58,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3546,7 +3608,7 @@
 		"subtitleList": [
 			"1.2억"
 		],
-		"rank": 58,
+		"rank": 59,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3608,7 +3670,7 @@
 		"subtitleList": [
 			"6,965.6만"
 		],
-		"rank": 59,
+		"rank": 60,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3670,7 +3732,7 @@
 		"subtitleList": [
 			"1억"
 		],
-		"rank": 60,
+		"rank": 61,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3732,7 +3794,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 61,
+		"rank": 62,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3792,7 +3854,7 @@
 		"subtitleList": [
 			"4,242만"
 		],
-		"rank": 62,
+		"rank": 63,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3852,9 +3914,9 @@
 		"ageGradeBadge": null,
 		"statusBadge": null,
 		"subtitleList": [
-			"8,969.6만"
+			"8,969.7만"
 		],
-		"rank": 63,
+		"rank": 64,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3916,7 +3978,7 @@
 		"subtitleList": [
 			"8,114.1만"
 		],
-		"rank": 64,
+		"rank": 65,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -3978,7 +4040,7 @@
 		"subtitleList": [
 			"1.2억"
 		],
-		"rank": 65,
+		"rank": 66,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4040,7 +4102,7 @@
 		"subtitleList": [
 			"7,420.8만"
 		],
-		"rank": 66,
+		"rank": 67,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4102,7 +4164,7 @@
 		"subtitleList": [
 			"1.1억"
 		],
-		"rank": 67,
+		"rank": 68,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4164,7 +4226,7 @@
 		"subtitleList": [
 			"8,110.9만"
 		],
-		"rank": 68,
+		"rank": 69,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4226,7 +4288,7 @@
 		"subtitleList": [
 			"1.4억"
 		],
-		"rank": 69,
+		"rank": 70,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4288,7 +4350,7 @@
 		"subtitleList": [
 			"2억"
 		],
-		"rank": 70,
+		"rank": 71,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4350,7 +4412,7 @@
 		"subtitleList": [
 			"8,329.4만"
 		],
-		"rank": 71,
+		"rank": 72,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4412,7 +4474,7 @@
 		"subtitleList": [
 			"5,681만"
 		],
-		"rank": 72,
+		"rank": 73,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4474,7 +4536,7 @@
 		"subtitleList": [
 			"8,923.6만"
 		],
-		"rank": 73,
+		"rank": 74,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4536,7 +4598,7 @@
 		"subtitleList": [
 			"2.2억"
 		],
-		"rank": 74,
+		"rank": 75,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4598,7 +4660,7 @@
 		"subtitleList": [
 			"2.1억"
 		],
-		"rank": 75,
+		"rank": 76,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4660,7 +4722,7 @@
 		"subtitleList": [
 			"2.3억"
 		],
-		"rank": 76,
+		"rank": 77,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4722,7 +4784,7 @@
 		"subtitleList": [
 			"7,454.5만"
 		],
-		"rank": 77,
+		"rank": 78,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4784,7 +4846,7 @@
 		"subtitleList": [
 			"8,314.9만"
 		],
-		"rank": 78,
+		"rank": 79,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4846,7 +4908,7 @@
 		"subtitleList": [
 			"1.2억"
 		],
-		"rank": 79,
+		"rank": 80,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -4908,7 +4970,7 @@
 		"subtitleList": [
 			"1.1억"
 		],
-		"rank": 80,
+		"rank": 81,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "Fifteen",
@@ -4970,7 +5032,7 @@
 		"subtitleList": [
 			"6,096.2만"
 		],
-		"rank": 81,
+		"rank": 82,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5032,7 +5094,7 @@
 		"subtitleList": [
 			"5,816.3만"
 		],
-		"rank": 82,
+		"rank": 83,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5094,7 +5156,7 @@
 		"subtitleList": [
 			"9,891.2만"
 		],
-		"rank": 83,
+		"rank": 84,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5156,7 +5218,7 @@
 		"subtitleList": [
 			"9,498.4만"
 		],
-		"rank": 84,
+		"rank": 85,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "Fifteen",
@@ -5218,7 +5280,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 85,
+		"rank": 86,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5280,7 +5342,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 86,
+		"rank": 87,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5342,7 +5404,7 @@
 		"subtitleList": [
 			"3.2억"
 		],
-		"rank": 87,
+		"rank": 88,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5404,7 +5466,7 @@
 		"subtitleList": [
 			"3.8억"
 		],
-		"rank": 88,
+		"rank": 89,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5466,7 +5528,7 @@
 		"subtitleList": [
 			"3.2억"
 		],
-		"rank": 89,
+		"rank": 90,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5528,7 +5590,7 @@
 		"subtitleList": [
 			"8,859.7만"
 		],
-		"rank": 90,
+		"rank": 91,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5590,7 +5652,7 @@
 		"subtitleList": [
 			"1.6억"
 		],
-		"rank": 91,
+		"rank": 92,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5652,7 +5714,7 @@
 		"subtitleList": [
 			"9,389.7만"
 		],
-		"rank": 92,
+		"rank": 93,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5714,7 +5776,7 @@
 		"subtitleList": [
 			"1.6억"
 		],
-		"rank": 93,
+		"rank": 94,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "Fifteen",
@@ -5776,7 +5838,7 @@
 		"subtitleList": [
 			"2억"
 		],
-		"rank": 94,
+		"rank": 95,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5838,7 +5900,7 @@
 		"subtitleList": [
 			"2억"
 		],
-		"rank": 95,
+		"rank": 96,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5900,7 +5962,7 @@
 		"subtitleList": [
 			"8,482.2만"
 		],
-		"rank": 96,
+		"rank": 97,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -5962,7 +6024,7 @@
 		"subtitleList": [
 			"1.2억"
 		],
-		"rank": 97,
+		"rank": 98,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -6024,7 +6086,7 @@
 		"subtitleList": [
 			"1.3억"
 		],
-		"rank": 98,
+		"rank": 99,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -6086,7 +6148,7 @@
 		"subtitleList": [
 			"8,549.4만"
 		],
-		"rank": 99,
+		"rank": 100,
 		"torosFileHashKey": null,
 		"torosImgId": null,
 		"ageGrade": "All",
@@ -6132,67 +6194,5 @@
 		"seriesId": 48604762,
 		"__typename": "PosterViewItem",
 		"link": "https://page.kakao.com/content/48604762"
-	},
-	{
-		"id": "PosterView-itemSeries-50849224-undefined-ViewCount",
-		"type": "PosterView",
-		"showPlayerIcon": false,
-		"scheme": "kakaopage://open/content?series_id=50849224",
-		"title": "무신귀환록",
-		"thumbnail": "//dn-img-page.kakao.com/download/resource?kid=dY9gp/hzCterIVzv/hTuMGLqnt61RJKrQJlHFl1&filename=th3",
-		"badgeList": [
-			"BadgeWaitFreeStatic"
-		],
-		"ageGradeBadge": null,
-		"statusBadge": null,
-		"subtitleList": [
-			"1.3억"
-		],
-		"rank": 100,
-		"torosFileHashKey": null,
-		"torosImgId": null,
-		"ageGrade": "All",
-		"selfCensorship": null,
-		"eventLog": {
-			"click": {
-				"layer1": null,
-				"layer2": null,
-				"setnum": null,
-				"ordnum": null,
-				"copy": null,
-				"imp_id": null,
-				"imp_provider": null,
-				"__typename": "ClickLog"
-			},
-			"eventMeta": {
-				"id": "50849224",
-				"name": "무신귀환록",
-				"subcategory": "무협",
-				"category": "웹소설",
-				"series": "무신귀환록",
-				"provider": "서비스",
-				"series_id": "50849224",
-				"type": "seriesId",
-				"__typename": "EventMeta"
-			},
-			"viewimp_contents": null,
-			"customProps": {
-				"landing_path": "contents",
-				"view_type": "series_poster_view",
-				"toros_imp_id": null,
-				"toros_file_hash_key": null,
-				"toros_event_meta_id": null,
-				"content_cnt": null,
-				"event_series_id": null,
-				"event_ticket_type": null,
-				"play_url": null,
-				"banner_uid": null,
-				"__typename": "CustomProps"
-			},
-			"__typename": "EventLog"
-		},
-		"seriesId": 50849224,
-		"__typename": "PosterViewItem",
-		"link": "https://page.kakao.com/content/50849224"
 	}
 ]
